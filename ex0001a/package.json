@@ -1,0 +1,26 @@
+{
+  "name": "threejs-beyblade",
+  "version": "0.0.1",
+  "description": "A browser-based 3D Beyblade spin simulator powered by Three.js",
+  "keywords": [
+    "beyblade",
+    "three-js",
+    "3dmodel"
+  ],
+  "license": "CC-BY-4.0",
+  "author": "gm64x & ULT.Voltage (3DmodelCreator)",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "vite": "^7.1.2"
+  },
+  "dependencies": {
+    "lil-gui": "^0.18.2",
+    "three": "^0.179.1"
+  }
+}

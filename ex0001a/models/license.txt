@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vulcan Horuses 145D
+* source:	https://sketchfab.com/3d-models/vulcan-horuses-145d-ac9d3735e05e43bd9b6a8cf4bab33b6d
+* author:	ULT.Voltage (https://sketchfab.com/ULT.Voltage)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vulcan Horuses 145D" (https://sketchfab.com/3d-models/vulcan-horuses-145d-ac9d3735e05e43bd9b6a8cf4bab33b6d) by ULT.Voltage (https://sketchfab.com/ULT.Voltage) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

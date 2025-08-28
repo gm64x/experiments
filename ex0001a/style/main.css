@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  /* full-viewport gradient background */
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f2027 0%, #2c5364 50%, #f5af19 100%);
+  background-attachment: fixed;
+  color: #ffffff;
+}
